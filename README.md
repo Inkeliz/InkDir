@@ -48,13 +48,13 @@ You need just run `InkDir -path C:\path\to\location\you\want`, this will list so
     Total                                                                  38KB       39186
     Time                                                                   107.2795ms
 
-You want to include the files on the list? Include `-files`. You have more commands, say `InkDir -h` to see all the possibilites.
+You want to include the files on the list? Set the `-files` flag. You have more commands, say `InkDir -h` to see all the possibilites.
 
 Context Menu
 ----------
 
-If you like to use mouse, you can install the Context Menu, this will create a easiest way to check the size of all folders in the directory. To install, just send `InkDir -installMenu`, that all.
+If you like to use mouse, you can install the Context Menu, this will create a easiest way to check the size of all folders in the directory. To install, just send `InkDir -installMenu`, this need administrator privilege.
 
-![enter image description here](https://raw.githubusercontent.com/Inkeliz/InkDir/v1.0/Media/contextmenu.png)
+![View size of folders in directory sorted by size](https://raw.githubusercontent.com/Inkeliz/InkDir/v1.0/Media/contextmenu.png)
 
-This is what you can use now.
+Now you can see the size of all files and folders in easy way.
